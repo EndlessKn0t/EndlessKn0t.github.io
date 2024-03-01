@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Shreevatsa Bhagwat
 title: Student at IIT Tirupati
-email: shreevatsabhagwat@gmail.com
+email: shreevatsabhagwat@gmail.com or ee21b047@iittp.ac.in
 website: https://endlesskn0t.github.io/
 
 # Dark Mode (true/false/never)
@@ -57,8 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Sensor Validation, Data Imputation, and Performance Prediction of Aero Engines Using Ma-
-chine Learning Techniques
+        title: Sensor Validation, Data Imputation, and Performance Prediction of Aero Engines Using Machine Learning Techniques
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
