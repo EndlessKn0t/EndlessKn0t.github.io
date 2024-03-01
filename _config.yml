@@ -70,7 +70,7 @@ content:
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <mark>Abstract:<mark>Abstract: The project involved working on the sensor data from aero gas turbine engines to determine faults and predict the performance of the engine. Machine learning models were used to analyse the data using various parameters. Interrelation between different parameters were analysed for obtaining a robust model.
+          <mark>Abstract:</mark>The project involved working on the sensor data from aero gas turbine engines to determine faults and predict the performance of the engine. Machine learning models were used to analyse the data using various parameters. Interrelation between different parameters were analysed for obtaining a robust model.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
