@@ -93,17 +93,21 @@ content:
         caption: 2021 - 2025
         sub_title: B.Tech Electrical Engineering
         quote: |
-        My time at IIT Tirupati is very valuable. I participated in various academic and co-curricular activitites at the institution. I held various positions such as 
-      - Coordinator of Health Issues division at NSS IIT Tirupati 
-      - Core Member in Debate club and Quiz club
-      - Coordinator at Marketing Commitee for the annual techno-cultural fest,  Tirutsava. 
+         My time at IIT Tirupati is very valuable. I participated in various academic and co-curricular activitites at the institution. I held various positions such as 
+         - Coordinator of Health Issues division at NSS IIT Tirupati 
+         - Core Member in Debate club and Quiz club
+         - Coordinator at Marketing Commitee for the annual techno-cultural fest,  Tirutsava. 
 
                   
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-      - 
+      - Reading Historical Fiction and Sci-Fi books
+      - Playing strategy games
+      - Trekking
+      - Quizzing
+      - Debating
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
