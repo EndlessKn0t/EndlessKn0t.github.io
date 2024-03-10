@@ -1,2 +1,2 @@
 # EndlessKn0t.github.io
-Personal Website (work in progress)
+Personal Website (wip)
